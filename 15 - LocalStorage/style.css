@@ -65,6 +65,7 @@
 
     .plates input:checked + label:before {
       content: '🌮';
+      
     }
 
     .add-items {
